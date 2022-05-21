@@ -33,4 +33,4 @@ Team Semicolon :
 * [V V S D Nagendra Anala]
 * [Srijan Saurabh jha]
 * [Shoaib]
-* [Shivank guptha]
+* [Shivank gupta]
