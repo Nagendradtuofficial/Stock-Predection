@@ -29,7 +29,7 @@ Time Series Data
 JP Morgan Stock Analysis 
 
 Credits :
-Team Semicolon :
+Team Bro Coders :
 * [V V S D Nagendra Anala]
 * [Srijan Saurabh jha]
 * [Shoaib]
